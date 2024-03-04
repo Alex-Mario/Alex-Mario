@@ -20,7 +20,6 @@ If you find something interesting, don't hesitate to collaborate or reach out.
       width: 100%;
       border-collapse: collapse;
     }
-
     td {
       width: 50%;
       padding: 10px;
