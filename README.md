@@ -21,7 +21,7 @@ If you find something interesting, don't hesitate to collaborate or reach out.
         <strong>Language:</strong><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50" />
       </td>
-      <td>
+      <td style="width: 50%; padding: 10px;">
         <strong>Frameworks & Libraries:</strong><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow Logo" width="50" height="50" />
         <img src="https://cdn-lfs.huggingface.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/9cf16f4f32604eaf76dabbdf47701eea5a768ebcc7296acc1d1758181f71db73?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.png%3B+filename%3D%22hf-logo.png%22%3B&response-content-type=image%2Fpng&Expires=1709829078&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwOTgyOTA3OH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzljZjE2ZjRmMzI2MDRlYWY3NmRhYmJkZjQ3NzAxZWVhNWE3NjhlYmNjNzI5NmFjYzFkMTc1ODE4MWY3MWRiNzM%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=JXpGtgLVOOkYaxqVH4HOPZ5eNl9N%7Ee3QIWegmRklkw1ptD-zWYBB7sW9RIn3PYO02pCSJ8YK6z6Z1pXt2yCm522HTBP8QlqDqCmPYFmSYqVnJJd0ctJ2JznqWK2IyTp0ddaWvXocdtNMCY-ieyQ7GD5h3TEGWanpBnlFf7qPSkjF8IL3%7ENSHucYCMKX9MRW1e6iEBbLy%7EcH9nkhEjPg3ku8Gn81IePP94Adp7xWgM6vq%7EY9JAlqgm5XLzAFzfwOMOQV1SLbD7ezJtJthNdC%7EeGx4oYiXmb3Ubh-quKY9Zcwv-isNqzR318%7EORoKLs9s2rysB8pJYX82K26ifLc1V-Q__&Key-Pair-Id=KVTP0A1DKRTAX" alt="Transformers Logo" width="50" height="50" />
@@ -30,24 +30,24 @@ If you find something interesting, don't hesitate to collaborate or reach out.
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="width: 50%; padding: 10px;">
         <strong>Web Development:</strong><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask Logo" width="50" height="50" />
       </td>
-      <td>
+      <td style="width: 50%; padding: 10px;">
         <strong>Databases:</strong><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50" />
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="width: 50%; padding: 10px;">
         <strong>Visualization:</strong><br>
         <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" alt="PowerBI Logo" width="50" height="50" style="margin-right: 5px;" />
         <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="Tableau Logo" width="50" height="50" style="margin-right: 5px;" />
       </td>
-      <td>
+      <td style="width: 50%; padding: 10px;">
         <strong>Version Control:</strong><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions Logo" width="50" height="50" />
