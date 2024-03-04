@@ -1,9 +1,4 @@
-<div>
-  <div style="display: flex;">
-    <h2>Hi there, I'm Alex Mario Simanjuntak!</h2>
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" alt="Waving Hand GIF" width="40" height="40" style="margin-bottom: 20px; margin-left: 5px"/>
-  </div>
-</div>
+# Hi there, I'm Alex Mario Simanjuntak! 👋
 
 Welcome to my GitHub profile! I'm interested in Data and Machine Learning. Feel free to explore my repositories and contributions.
 If you find something interesting, don't hesitate to collaborate or reach out.
