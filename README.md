@@ -15,6 +15,17 @@ If you find something interesting, don't hesitate to collaborate or reach out.
 ## 🔧 Technologies & Tools
 
 <div align="left">
+<style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    td {
+      width: 50%;
+      padding: 10px;
+    }
+  </style>
   <table>
     <tr>
       <td>
