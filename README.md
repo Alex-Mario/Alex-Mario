@@ -15,7 +15,7 @@ If you find something interesting, don't hesitate to collaborate or reach out.
 
 ## 🔧 Technologies & Tools
 
-<div style="width: 100%;">
+<div style="width: 200%;">
   <table style="width: 200%;">
     <tr>
       <td valign="top">
