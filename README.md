@@ -1,6 +1,8 @@
 # Hi there, I'm Alex Mario Simanjuntak! 👋
 
-Welcome to my GitHub profile! I'm interested in Data and Machine Learning. Feel free to explore my repositories and contributions.
+Welcome to my GitHub profile!
+I'm interested in Data and Machine Learning.
+Feel free to explore my repositories and contributions.
 If you find something interesting, don't hesitate to collaborate or reach out.
 
 <div align="left">
@@ -13,6 +15,7 @@ If you find something interesting, don't hesitate to collaborate or reach out.
 </div>
 
 ## 🔧 Technologies & Tools
+
 <div style="width: 100%;">
   <table style="width: 100%;">
     <tr>
@@ -75,8 +78,9 @@ If you find something interesting, don't hesitate to collaborate or reach out.
 - LinkedIn: [Alex Mario Simanjuntak](https://www.linkedin.com/in/alex-mario-simanjuntak/)
 - Hugging Face : [My Hugging Face Repository](https://huggingface.co/Alex034)
 - Email: alex.mario1404@gmail.com
+
 <br>
-<br>
+
 <div align="center">
   <p style="font-size: 20px;">Thanks for stopping by! 😄</p>
 </div>
