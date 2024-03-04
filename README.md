@@ -15,19 +15,9 @@ If you find something interesting, don't hesitate to collaborate or reach out.
 ## 🔧 Technologies & Tools
 
 <div align="left">
-<style>
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-    td {
-      width: 50%;
-      padding: 10px;
-    }
-</style>
-  <table>
+  <table style="width: 100%; border-collapse: collapse;">
     <tr>
-      <td>
+      <td style="width: 50%; padding: 10px;">
         <strong>Language:</strong><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50" />
       </td>
