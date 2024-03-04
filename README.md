@@ -45,7 +45,7 @@ If you find something interesting, don't hesitate to collaborate or reach out.
     <tr>
       <td>
         <strong>Visualization:</strong><br>
-        <img src="https://static.wixstatic.com/media/63f6e3_571bda213661461cb9535d68de2b6f9e~mv2.png/v1/fill/w_614,h_614,al_c,q_90/63f6e3_571bda213661461cb9535d68de2b6f9e~mv2.png" alt="PowerBI Logo" width="75" height="50" style="margin-right: 5px;" />
+        <img src="https://static.wixstatic.com/media/63f6e3_571bda213661461cb9535d68de2b6f9e~mv2.png/v1/fill/w_614,h_614,al_c,q_90/63f6e3_571bda213661461cb9535d68de2b6f9e~mv2.png" alt="PowerBI Logo" width="75" height="50" style="margin-right: 10px;" />
         <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="Tableau Logo" width="75" height="50" style="margin-right: 5px;" />
       </td>
       <td>
