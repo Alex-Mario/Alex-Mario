@@ -1,8 +1,7 @@
 # Hi there, I'm Alex Mario Simanjuntak! 👋
 
-Welcome to my GitHub profile!
-I'm interested in Data and Machine Learning.
-Feel free to explore my repositories and contributions.
+Welcome to my GitHub profile! I'm interested in Data and Machine Learning. <br>
+Feel free to explore my repositories and contributions.<br>
 If you find something interesting, don't hesitate to collaborate or reach out.
 
 <div align="left">
