@@ -24,7 +24,7 @@ If you find something interesting, don't hesitate to collaborate or reach out.
       width: 50%;
       padding: 10px;
     }
-  </style>
+</style>
   <table>
     <tr>
       <td>
