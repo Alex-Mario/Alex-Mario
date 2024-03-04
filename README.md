@@ -1,6 +1,6 @@
 <div>
   <div style="display: flex;">
-    <h1>Hi there, I'm Alex Mario Simanjuntak!</h1>
+    <h2>Hi there, I'm Alex Mario Simanjuntak!</h2>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" alt="Waving Hand GIF" width="40" height="40" style="margin-bottom: 20px; margin-left: 5px"/>
   </div>
 </div>
