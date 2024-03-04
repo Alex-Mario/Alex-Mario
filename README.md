@@ -5,7 +5,8 @@
   </div>
 </div>
 
-Welcome to my GitHub profile! I'm interested in Data and Machine Learning. Feel free to explore my repositories and contributions. If you find something interesting, don't hesitate to collaborate or reach out.
+Welcome to my GitHub profile! I'm interested in Data and Machine Learning. Feel free to explore my repositories and contributions.
+If you find something interesting, don't hesitate to collaborate or reach out.
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxpNHZidHZiMmh6enUzbXp6Yzh5NnIyejh3MzRnOXE0bDB5dGF5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" width="250" height="250" style="border-radius: 50%; border: 5px solid #38a169; margin-bottom: 20px;" />
