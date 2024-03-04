@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm interested in Data and Machine Learning.
 Feel free to explore my repositories and contributions.<br>
 If you find something interesting, don't hesitate to collaborate or reach out.
 
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxpNHZidHZiMmh6enUzbXp6Yzh5NnIyejh3MzRnOXE0bDB5dGF5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" width="200" height="200" margin-bottom: 20px;" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=Alex-Mario&color=blue" alt="Profile Views" style="margin-bottom: 20px;" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Alex-Mario.Alex-Mario" alt="Visitors" style="margin-bottom: 20px;" />
 </div>
