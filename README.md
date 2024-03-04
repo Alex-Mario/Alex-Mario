@@ -75,8 +75,8 @@ If you find something interesting, don't hesitate to collaborate or reach out.
 
 ## 📫 Let's Connect
 - LinkedIn: [Alex Mario Simanjuntak](https://www.linkedin.com/in/alex-mario-simanjuntak/)
-- Hugging Face : [My Hugging Face Repository](https://huggingface.co/Alex034)
 - Email: alex.mario1404@gmail.com
+- Hugging Face : [My Hugging Face Repository](https://huggingface.co/Alex034)
 
 <br>
 
