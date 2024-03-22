@@ -76,7 +76,7 @@ If you find something interesting, don't hesitate to collaborate or reach out.
 </div>
 
 ## 📫 My Projects Website
-Link : [Go to my projects website](http://my.project-alex.site/#)
+Link : [Go to my projects website](https://my.project-alex.site/#)
 
 ## 📫 Let's Connect
 - LinkedIn: [Alex Mario Simanjuntak](https://www.linkedin.com/in/alex-mario-simanjuntak/)
