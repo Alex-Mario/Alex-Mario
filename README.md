@@ -75,8 +75,22 @@ If you find something interesting, don't hesitate to collaborate or reach out.
   </div>
 </div>
 
-## 📫 My Projects Website
-Link : [Go to my projects website](https://my.project-alex.site/#)
+## 📫 My Visualization Projects
+Power BI 
+
+[Power BI Visualization Project](https://drive.google.com/drive/folders/1149ZwCmMVWqL9nCvJrTajpDJIJCGHwrt?usp=sharing)
+
+Tableau
+
+[Tableau Visualization Project](https://public.tableau.com/app/profile/alex.mario.simanjuntak/vizzes)
+
+Looker Studio
+
+[FINANCIAL DASHBOARD](https://lookerstudio.google.com/reporting/c4acbc87-0d6f-4dcf-a0d2-c6234ff558b8)
+
+[AMAZING MART DASHBOARD](https://lookerstudio.google.com/u/0/reporting/7e1bcb2b-512a-4bf1-adeb-ff69a3bd6a60)
+
+[ONLINE RETAIL DASHBOARD](https://lookerstudio.google.com/reporting/092a785f-a8e2-4cff-bcd4-28f9c3477102)
 
 ## 📫 Let's Connect
 - LinkedIn: [Alex Mario Simanjuntak](https://www.linkedin.com/in/alex-mario-simanjuntak/)
