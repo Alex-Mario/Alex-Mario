@@ -78,7 +78,7 @@ If you find something interesting, don't hesitate to collaborate or reach out.
 ## 📫 My Visualization Projects
 Power BI 
 
-[Power BI Visualization Project](https://drive.google.com/drive/folders/1149ZwCmMVWqL9nCvJrTajpDJIJCGHwrt?usp=sharing)
+[SUPERSTORE SALES DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiOTRjNDZiNDEtNzMwMi00MGE0LWEwMjktYTU4NmVjNWU4MDE2IiwidCI6IjBlNGNhZDM0LTYyYTEtNDQ4ZC1iZjRhLTZjOGQ3Njk0NTEyZiJ9)
 
 Tableau
 
