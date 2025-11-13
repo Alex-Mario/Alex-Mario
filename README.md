@@ -30,7 +30,7 @@ If you find something interesting, don't hesitate to collaborate or reach out.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib Logo" width="75" height="60"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="NumPy Logo" width="75" height="60"  />
         <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn Logo" width="75" height="60"  />
-        <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="Transformers Logo" width="100" height="60" />
+        <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="Transformers Logo" width="80" height="60" />
       </td>
     </tr>
     <tr>
