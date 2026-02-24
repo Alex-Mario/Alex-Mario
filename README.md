@@ -65,12 +65,12 @@ If you find something interesting, don't hesitate to collaborate or reach out.
     <!-- GitHub Stats -->
     <div style="flex: 1; margin-right: 10px;">
       <h2>📈 GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=Alex-Mario&show_icons=true&count_private=true&hide=contribs,prs&theme=radical" alt="Alex Mario's GitHub Stats" />
+      <img src="https://github-readme-stats-kohl-three-29.vercel.app/api?username=Alex-Mario&show_icons=true&count_private=true&hide=contribs,prs&theme=radical" alt="Alex Mario's GitHub Stats" height="195" />
     </div>
     <!-- Top Languages -->
     <div style="flex: 1; margin-left: 10px;">
       <h2>🌟 Top Languages</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Mario&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats-kohl-three-29.vercel.app/api/top-langs/?username=Alex-Mario&layout=compact&theme=radical" alt="Top Languages" height="195" />
     </div>
   </div>
 </div>
