@@ -65,7 +65,7 @@ If you find something interesting, don't hesitate to collaborate or reach out.
     <!-- GitHub Stats -->
     <div style="flex: 1; margin-right: 10px;">
       <h2>📈 GitHub Stats</h2>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alex-Mario&show_icons=true&theme=radical&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Alex-Mario&show_icons=true&count_private=true&hide=contribs,prs&theme=radical" alt="Alex Mario's GitHub Stats" />
     </div>
     <!-- Top Languages -->
     <div style="flex: 1; margin-left: 10px;">
